@@ -1,0 +1,15 @@
+{
+  "empty": {
+    "description": "Dieses Bundle entfernt alle derzeit installierten Addons und Dashboards.",
+    "name": "Leeres Bundle"
+  },
+  "mediathek": {
+    "description": "Mediathek-Bundle, das verschiedene deutsche Mediatheken enthält."
+  },
+  "watched": {
+    "description": "Das WATCHED Bundle ist veraltet! Bitte verwenden Sie stattdessen das WATCHUP Bundle."
+  },
+  "watchup": {
+    "description": "Das WATCHUP Bundle."
+  }
+}

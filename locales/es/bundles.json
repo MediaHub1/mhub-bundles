@@ -1,0 +1,15 @@
+{
+  "empty": {
+    "description": "Este bundle eliminará todos los addons y paneles instalados actualmente.",
+    "name": "Bundle vacío"
+  },
+  "mediathek": {
+    "description": "Paquete Mediathek que varios Mediatheks alemanes."
+  },
+  "watched": {
+    "description": "¡El paquete WATCHED está obsoleto! En su lugar, utilice el paquete WATCHUP."
+  },
+  "watchup": {
+    "description": "El paquete WATCHUP."
+  }
+}

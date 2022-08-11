@@ -1,0 +1,15 @@
+{
+  "empty": {
+    "description": "Ce bundle supprimera tous les addons et tableaux de bord actuellement installés.",
+    "name": "Bundle vide"
+  },
+  "mediathek": {
+    "description": "Bundle Mediathek qui comprend divers Mediatheks allemands."
+  },
+  "watched": {
+    "description": "Le pack WATCHED est obsolète! Veuillez utiliser le pack WATCHUP à la place."
+  },
+  "watchup": {
+    "description": "Le pack WATCHUP."
+  }
+}

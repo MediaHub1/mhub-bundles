@@ -1,0 +1,15 @@
+{
+  "empty": {
+    "description": "This bundle will remove all currently installed addons and dashboards.",
+    "name": "Empty Bundle"
+  },
+  "mediathek": {
+    "description": "Mediathek bundle which various german Mediatheks."
+  },
+  "watched": {
+    "description": "The WATCHED Bundle is deprecated! Please use the WATCHUP bundle instead."
+  },
+  "watchup": {
+    "description": "The WATCHUP bundle."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "empty": {
+    "description": "Deze bundle verwijdert de tot op heden geïnstalleerde add-ons en dashboards.",
+    "name": "Lege bundle"
+  },
+  "mediathek": {
+    "description": "Mediathek bundel waarin diverse Duitse Mediatheks."
+  },
+  "watched": {
+    "description": "De WATCHED-bundel is verouderd! Gebruik in plaats daarvan de WATCHUP-bundel."
+  },
+  "watchup": {
+    "description": "De WATCHUP-bundel."
+  }
+}

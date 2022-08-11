@@ -1,0 +1,15 @@
+{
+  "empty": {
+    "description": "Bu Bundle, şu anda yüklü olan tüm Addon ları ve gösterge tablolarını kaldıracaktır.",
+    "name": "Boş Bundle"
+  },
+  "mediathek": {
+    "description": "Çeşitli Alman Mediatheks'in sunduğu Mediathek paketi."
+  },
+  "watched": {
+    "description": "WATCHED Paketi kullanımdan kaldırıldı! Lütfen bunun yerine WATCHUP paketini kullanın."
+  },
+  "watchup": {
+    "description": "WATCHUP paketi."
+  }
+}
